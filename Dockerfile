@@ -1,6 +1,7 @@
 FROM centos:6.7
 
 MAINTAINER Bryan Hunt "admin@binarytemple.co.uk"
+MAINTAINER Yannis Kontekakis "ykontekakis@smoke-mirrors.co.uk"
 
 RUN yum -y update
 
